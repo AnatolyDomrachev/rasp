@@ -1,0 +1,26 @@
+{
+"verh":[
+	"ponedelnik": [
+		"13-00 Python lab"
+	],
+	"sreda": [
+		"9-30 OS lec",
+		"11-15 OS lab"
+	],
+	"chetverg": [
+		"11-15 Python lec"
+	],
+
+"niz":[
+	"ponedelnik": [
+		"9-30 Network prakt",
+		"11-15 Network lab",
+		"13-00 Python lab"
+	],
+	"sreda": [
+		"9-30 Network lec"
+	],
+	"chetverg": [
+		"14-45 OS lab"
+	],
+
