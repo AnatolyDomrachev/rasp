@@ -1,7 +1,11 @@
 {
 	"verh":{
 		"ponedelnik": [
+			"11-15 Python lab",
 			"13-00 Python lab"
+		],
+		"vtornik": [
+			"11-15 Python lab"
 		],
 		"sreda": [
 			"9-30 OS lec",
